@@ -13,10 +13,10 @@
 
 ⚡ Fun fact, I can code in day and night both
 
-## ⚙️ Tech Stack
+## 📊🗂️  DSA
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,c)
 
-## ⚙️ Web Development
+## ⚙️🛠️  Web Development
 ![web Skills](https://skillicons.dev/icons?i=js,html,css)
 
 
