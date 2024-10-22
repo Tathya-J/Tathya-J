@@ -14,9 +14,12 @@
 ⚡ Fun fact, I can code in day and night both
 
 ## ⚙️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skills.thijs.gg
+
 ## ⚙️ Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skills.thijs.gg
+
+
 ## 🤝 Let's get Connected
 <div align="left">
   <a href="https://www.linkedin.com/in/tathya-j-278602229/" target="_blank">
