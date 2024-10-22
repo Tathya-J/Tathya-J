@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skills.thijs.gg
 
 ## ⚙️ Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skills.thijs.gg
+[![web Skills](https://skillicons.dev/icons?i=js,html,css)](https://skills.thijs.gg
 
 
 ## 🤝 Let's get Connected
